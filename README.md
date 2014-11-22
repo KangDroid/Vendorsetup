@@ -1,4 +1,0 @@
-Vendorsetup
-===========
-
-VendorSetupfor dokdo

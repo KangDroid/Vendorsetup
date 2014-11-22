@@ -1,4 +1,4 @@
 # ACKDP build target list
 # This will update everyday(If support)
 
-ackdp_hammerhead-userdebug
+ackdp_hammerhead-userdebug cm-11.0
